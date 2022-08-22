@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tkraus999
-- 👀 I’m interested in cybersecurity, application security, pentesting...etc.
+- 👀 I’m interested in cybersecurity, application security, pentesting, software testing
 - 🌱 I’m currently learning python and js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
